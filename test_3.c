@@ -2,6 +2,6 @@
 
 int main(){
 	for (int i = 0; i < 10; i++)
-		printf("%d", i);
-	printf("\n");
+		printf("num: %d", i);
+  printf("\n");
 }
